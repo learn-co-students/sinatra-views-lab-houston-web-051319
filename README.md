@@ -27,7 +27,7 @@ You can run `learn` to get the tests passing and see errors.
 
 1. Create a template called `hello.erb` in `views` that contains an `h1` tag
    with the content `Hello World`. This should get rendered via a GET `/hello`
-   route by your `App` controller in `app.rb`.
+   route by your `App` controllclearer in `app.rb`.
 
 2. Create another template called `goodbye.erb` in `views`. In this view, use
    ERB tags to create a variable `name`. This variable should store the name
